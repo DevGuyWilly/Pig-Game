@@ -7,5 +7,5 @@
 - Vanilla JavaScript
 
 ##  Links
-- Solution URL: [Code on Github](git@github.com:DevGuyWilly/Pig-Game.git)
+- Solution URL: [Code on Github](https://github.com/DevGuyWilly/Pig-Game)
 - Live Site URL: (https://devguywilly.github.io/FrontEnd-BootCamp-using-Bootstrap/)
