@@ -8,4 +8,4 @@
 
 ##  Links
 - Solution URL: [Code on Github](git@github.com:DevGuyWilly/Pig-Game.git)
-- Live Site URL: (https://devguywilly.github.io/Pig-Game/)
+- Live Site URL: (https://devguywilly.github.io/FrontEnd-BootCamp-using-Bootstrap/)
